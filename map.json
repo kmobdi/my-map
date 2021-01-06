@@ -708,6 +708,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/jamboard.google.com\/d\/1hKzcfaWqxt-cmJ7hIEhrV5z7uXPITSEvYbPwaiIYSgo"
                         }]
                 }, 
                 {
@@ -722,6 +727,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/jamboard.google.com\/d\/1hKzcfaWqxt-cmJ7hIEhrV5z7uXPITSEvYbPwaiIYSgo"
                         }]
                 }, 
                 {
@@ -805,6 +815,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/jamboard.google.com\/d\/1hKzcfaWqxt-cmJ7hIEhrV5z7uXPITSEvYbPwaiIYSgo"
                         }]
                 }, 
                 {
@@ -819,6 +834,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/jamboard.google.com\/d\/1hKzcfaWqxt-cmJ7hIEhrV5z7uXPITSEvYbPwaiIYSgo"
                         }]
                 }, 
                 {

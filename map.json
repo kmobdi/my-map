@@ -612,7 +612,7 @@
                  "id":132,
                  "properties":[
                         {
-                         "name":"JitsiRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"kiki"
                         }]
